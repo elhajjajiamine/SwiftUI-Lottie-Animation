@@ -1,0 +1,6 @@
+framework module Pods_SwiftUI_Lottie_Animation {
+  umbrella header "Pods-SwiftUI Lottie Animation-umbrella.h"
+
+  export *
+  module * { export * }
+}

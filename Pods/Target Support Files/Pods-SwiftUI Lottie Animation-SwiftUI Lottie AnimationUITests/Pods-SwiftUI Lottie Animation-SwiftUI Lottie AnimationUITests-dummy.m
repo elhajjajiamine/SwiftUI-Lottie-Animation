@@ -1,0 +1,5 @@
+#import <Foundation/Foundation.h>
+@interface PodsDummy_Pods_SwiftUI_Lottie_Animation_SwiftUI_Lottie_AnimationUITests : NSObject
+@end
+@implementation PodsDummy_Pods_SwiftUI_Lottie_Animation_SwiftUI_Lottie_AnimationUITests
+@end
